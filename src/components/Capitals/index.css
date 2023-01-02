@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.topcard {
+  background-color: #93c5fd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.card {
+  background-color: #f8fafc;
+  width: 500px;
+  padding: 50px;
+  border-radius: 50px;
+}
